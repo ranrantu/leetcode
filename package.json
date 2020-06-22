@@ -18,5 +18,8 @@
   "homepage": "https://github.com/ranrantu/leetcode#readme",
   "devDependencies": {
     "nodemon": "^1.19.3"
+  },
+  "dependencies": {
+    "esm": "^3.2.25"
   }
 }
