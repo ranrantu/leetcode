@@ -1,2 +1,4 @@
 # leetcode
-ranrantu leetcode
+## 常见问题
+## 常用技巧
+## 相似问题
